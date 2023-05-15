@@ -25,7 +25,7 @@ Showcase real-life examples and what statistics to use in each of those examples
 * A simple linear regression model
 
 ## Workshop Plan
-We would be using Marijuana prices in various states of the USA, along with demographic data of the USA based on the latest census data
+We would be using garbage prices in various states of the USA, along with demographic data of the USA based on the latest census data
 
 There will be separate ipython notebooks - grouped by topic similarities. *notebooks will be uploaded later*
 Some examples include:
