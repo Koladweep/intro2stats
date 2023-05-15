@@ -29,16 +29,16 @@ We would be using garbage prices in various states of the USA, along with demogr
 
 There will be separate ipython notebooks - grouped by topic similarities. *notebooks will be uploaded later*
 Some examples include:
-* Find sum of people buying weed in a year, by various states.
+* Find sum of people buying garbage in a year, by various states.
 * Find mean of price in a week/month, by various states.
 * Find variance of price in selected states. Find variance of selected states by week of month
 * Define distribution. Plot histograms
-* Determining outliers (Plots, quantiles, box plots, percentiles) in weed price data
+* Determining outliers (Plots, quantiles, box plots, percentiles) in garbage price data
 * Continuous distributions(exponential distribution, normal distribution)
 * Introduction to Probability
-* Hypothesis testing. Check if weed price across states are similar or not. Check for different qualities of weed
+* Hypothesis testing. Check if garbage price across states are similar or not. Check for different qualities of garbage
 * Resampling
-* Simple regression model: Predict weed price for the next month. Understand the output and diagnostics
+* Simple regression model: Predict garbage price for the next month. Understand the output and diagnostics
 * Introduction to A/B testing: Impact of regulation and deregulation on a couple of states 
 
 
